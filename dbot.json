@@ -1,8 +1,7 @@
 {
-
-   "domains": {
-     "fntk2":"dbot.vavootv1.xyz"
-     
-   }
-  
+  "domains": [
+    {
+  "fntk2": "dbot.vavootv1.xyz",
+    }
+  ]
 }
