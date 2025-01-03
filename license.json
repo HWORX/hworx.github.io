@@ -1,5 +1,7 @@
 {
- "domains": {
-      "mgvn":"muratguvenlojistik.com",
-            }
+  "domains": [
+    {
+            "mgvn": "muratguvenlojistik.com",
+    }
+  ]
 }
